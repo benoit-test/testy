@@ -3,7 +3,4 @@
 
 this is a readme file
 
-
-this has been changed
-
-changed in the branch
+we're going to make modifications to it to simulate code changes
