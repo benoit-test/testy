@@ -6,4 +6,4 @@ this is a readme file
 
 this has been changed
 
-changed in the branch
+This line has been added and contains a bug
